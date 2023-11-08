@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "511045311376",
+    "project_id": "compose-394214",
+    "storage_bucket": "compose-394214.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511045311376:android:0bf65fae00fe588892b115",
+        "android_client_info": {
+          "package_name": "com.example.walletapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511045311376-joum0ei7gje9isne87vt4j03ebb6ua3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANrO1cY4AHAJ6aYmODQauKhBnbBtrRQy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511045311376-joum0ei7gje9isne87vt4j03ebb6ua3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511045311376:android:56bcca602ebcbe5a92b115",
+        "android_client_info": {
+          "package_name": "com.example.walletapplication.viewModel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "511045311376-0bgascbd4s014u7js465l04luglca061.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.walletapplication.viewModel",
+            "certificate_hash": "47a589fb99928660b94814197cfb793544e1ae97"
+          }
+        },
+        {
+          "client_id": "511045311376-joum0ei7gje9isne87vt4j03ebb6ua3d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANrO1cY4AHAJ6aYmODQauKhBnbBtrRQy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "511045311376-joum0ei7gje9isne87vt4j03ebb6ua3d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
